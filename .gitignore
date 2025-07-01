@@ -1,0 +1,28 @@
+# === GLOBAL ===
+.DS_Store
+Thumbs.db
+*.log
+logs/
+.env
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === FRONTEND ===
+frontend/node_modules/
+frontend/.env
+frontend/.cache
+frontend/build/
+frontend/dist/
+frontend/public/static/
+
+# === BACKEND ===
+backend/node_modules/
+backend/.env
+backend/uploads/
+backend/package-lock.json
+
+# === SYSTEM FILES ===
+*.bak
+*.tmp
