@@ -1,4 +1,4 @@
-# 🏥 CareSync - Healthcare Management System
+# 🏥 CareSync - Ehealth Record System
 
 CareSync is a full-stack healthcare web application built using the MERN stack (MongoDB, Express, React, Node.js). It offers a secure and user-friendly platform for patients and healthcare providers to manage medical records, appointments, documents, and more — all in one place.
 
